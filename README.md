@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Limhan</h1>
 <h3 align="center">A passionate and aspiring data analyst from India.</h3>
 
-- 🔭 I’m currently working on [Human Comfort Index](https://github.com/soham-limhan/HumanComfortIndex.git)
+- 🔭 I’m currently working on [InsightFlow](https://github.com/soham-limhan/InsightFlow.git)
 
 - 🌱 I’m currently learning **Python, Java, Javascript, MongoDB, MySQL**
 
